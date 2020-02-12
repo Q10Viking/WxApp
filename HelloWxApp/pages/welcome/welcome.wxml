@@ -1,0 +1,7 @@
+<view class="container">
+  <image src="/images/avatar.png"></image>
+  <text class="info">Hello WxApp</text>
+  <view class="btContainer">
+    <text>WxApp 微足迹</text>
+  </view>
+</view>
